@@ -1,0 +1,12 @@
+<svg width="128" height="128" version="1.1" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient3" x1="19.727" x2="28.273" y1="17.924" y2="17.924" gradientTransform="matrix(.67532 0 0 .82342 7.7922 4.7187)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+  </linearGradient>
+ </defs>
+ <g class="youtube_svg__style-scope youtube_svg__yt-icon" transform="matrix(2.6666 0 0 2.6666 0 .0026666)">
+  <path class="youtube_svg__style-scope youtube_svg__yt-icon" d="m46.997 12.446a6.011 6.011 0 0 0-4.243-4.243c-3.742-1.004-18.754-1.004-18.754-1.004s-15.01 1e-3 -18.753 1.004a6.011 6.011 0 0 0-4.244 4.243c-1.003 3.742-1.003 11.554-1.003 11.554s0 7.812 1.003 11.554a6.01 6.01 0 0 0 4.244 4.244c3.743 1.002 18.753 1.002 18.753 1.002s15.012 0 18.754-1.003a6.01 6.01 0 0 0 4.243-4.244c1.004-3.741 1.004-11.553 1.004-11.553s-4e-3 -7.812-1.004-11.554z" fill="#f00"/>
+  <path class="youtube_svg__style-scope youtube_svg__yt-icon" d="m16.8 23.536 7.2 12.47 7.2-12.47z" fill="#fff"/>
+  <rect x="21.114" y="13.785" width="5.7711" height="11.386" fill="url(#linearGradient3)" stroke-width=".7457"/>
+ </g>
+</svg>
